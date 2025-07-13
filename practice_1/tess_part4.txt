@@ -1,0 +1,5 @@
+tess_lc_723.csv
+tess_lc_736.csv
+tess_lc_744.csv
+tess_lc_765.csv
+tess_lc_979.csv
