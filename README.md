@@ -15,7 +15,7 @@ This folder contains the initial preparation of TESS light curve data. The steps
    - Use the Bash script `tesscurl_sector_73_lc.sh` to download light curve `.fits` files from TESS Sector 73 via the MAST archive.
 
 2. **Convert `.fits` to `.csv`**:  
-   - Open the `.fits` files in TOPCAT (or with Python tools like `lightkurve`) to convert them into `.csv` format.
+   - Open the `.fits` files in TOPCAT to convert them into `.csv` format.
    - Select only the relevant columns (e.g., TIME, FLUX, FLUX_ERR).
 
 3. **Organize the `.csv` files**:  
