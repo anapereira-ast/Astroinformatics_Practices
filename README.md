@@ -67,6 +67,7 @@ This final practice focuses on documentation and repository organization:
 
 Each folder is self-contained and corresponds to one graded practice of the course.
 
+---
 
 ## Test Case Identification
 
