@@ -6,7 +6,7 @@ This repository contains scripts and outputs from 4 practices of the Astroinform
 First you must install the packages that are used in the codes, these are in the requirements.txt file and to install it you must type in the terminal:
 `pip install -r requirements.txt`
 
---
+---
 ## 📁 practice1
 
 This folder contains the initial preparation of TESS light curve data. The steps involved are as follows:
