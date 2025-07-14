@@ -3,6 +3,7 @@
 This repository contains scripts and outputs from 4 practices of the Astroinformatics course, where we work with a TESS light curve analysis project. The course is part of the Master's program in Astronomy at Universidad de Antofagasta. Each practice is organized into its own folder (`practice1/`, `practice2/`, etc.) and includes code, scripts, figures, and data files.
 
  **Important**
+ 
 These codes were designed specifically for TESS light curves, which use columns such as `TIME`, `PDCSAP_FLUX` and `PDCSAP_FLUX_ERR`. If you want to use this script with data from other telescopes (e.g. Kepler, CHEOPS or your own observations), you will probably have to adapt the column names or the general input format. Otherwise, you might get errors like `KeyError` or empty plots.
 
 
